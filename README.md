@@ -24,8 +24,8 @@ Password : root
 user : Admin  
 password : root
 ***
-user :  
-password :  
+user :  JohnnyReview  
+password :  root
 ***
 
 ## Technologies Used
