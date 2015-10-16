@@ -13,20 +13,20 @@ _Epicodus Drupal interface code review._
 * Start local server
 * Go to phpMyAdmin
 * Import bookstore database from sites/db-backup
-* Add user : bookstoreAdmin  
-Host : local  
-Password : root
+* Add user in privileges:
+      user : bookstoreAdmin
+      Host : local  
+      Password : root
 
 ## Drupal site setup
 * Go to localhost:8888  
-* Site logins :
-***
-user : Admin  
-password : root
-***
-user :  JohnnyReview  
-password :  root
-***
+* Site logins :  
+      user : Admin
+      password : root  
+
+      user :  JohnnyReview
+      password :  root  
+
 
 ## Technologies Used
 
