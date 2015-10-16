@@ -9,20 +9,21 @@ _Epicodus Drupal interface code review._
 
 ## Database Setup
 
-* Clone repository  
+* Clone repository
 * Start local server
 * Go to phpMyAdmin
-* Import bookstore database from sites/db-backup
-* Add user in privileges:  
+* Import bookstore database from sites/db-backup  
+* Add user in privileges:
+
 _user : bookstoreAdmin_  
-_host : local_
+_host : local_  
 _password : root_  
 
 ## Drupal site setup
 * Go to localhost:8888  
 * Site logins :
 
-_user : Admin_
+_user : Admin_  
 _password : root_  
 
 _user :  JohnnyReview_  
