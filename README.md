@@ -20,7 +20,7 @@ Password : root
 ## Drupal site setup
 * Go to localhost:8888  
 * Site logins :
----  
+***
 user : Admin  
 password : root
 ***
